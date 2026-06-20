@@ -3,4 +3,5 @@
 
 MapTool Library token to provide visual die rolling features
 
-Examples videos to add tables and general demo: https://github.com/Jmr3366/Lib_DiceOverlay/issues/5
+https://www.youtube.com/watch?v=WKiaIHeNiPQ&t=17s&pp=ygUUcm9sbGluZyBkaWNlIG1hcHRvb2w%3D
+
